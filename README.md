@@ -10,6 +10,7 @@ tags: ["physics", "science", "tech", "chess", "mechanics", "universe"]
 | 🔥 Physics | Mechanics, energy, forces, relativity |
 | 🧠 Chess | Strategy, tactics, improvement |
 | ⚗️ Science | Experiments and discoveries |
+| 🧰Fav Tool | [Markdown Viewer](https://markdownviewer.pages.dev/) |
 ---
 
 # 📜 Favorite Quote
