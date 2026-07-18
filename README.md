@@ -8,7 +8,6 @@ tags: ["physics", "science", "tech", "chess", "mechanics", "universe"]
 | Field | Exploring |
 |---|---|
 | 🔥 Physics | Mechanics, energy, forces, relativity |
-| 🧠 Chess | Strategy, tactics, improvement |
 | ⚗️ Science | Experiments and discoveries |
 | 🧰 Fav Tool | [Markdown Viewer](https://markdownviewer.pages.dev/) |
 ---
